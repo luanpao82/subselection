@@ -1,0 +1,1 @@
+SD <- HICr[ which(HICr$CoCState=='SD'), ]
