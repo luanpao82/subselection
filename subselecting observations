@@ -1,1 +1,2 @@
 SD <- HICr[ which(HICr$CoCState=='SD'), ]
+s <- w[ which(w$tt_revenue < 88458797), ]
